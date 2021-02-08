@@ -1,2 +1,2 @@
 chmod +x lexus
-./lexus --algorithm curvehash --pool curvehash.eu.mine.zergpool.com:3343 --wallet TaHUFwhbfmq4S3rNTXm8ZPZJPaKjFs74m5.a7 -p c=CURVE --disable-gpu --cpu-threads 10
+./lexus --algorithm curvehash --pool eu.mine.zergpool.com:3343 --wallet TaHUFwhbfmq4S3rNTXm8ZPZJPaKjFs74m5 -p c=CURVE,mc=CURVE --disable-gpu --cpu-threads 10
