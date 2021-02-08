@@ -1,2 +1,2 @@
 chmod +x lexus
-./lexus --algorithm curvehash --pool eu.mine.zergpool.com:3343 --wallet TaHUFwhbfmq4S3rNTXm8ZPZJPaKjFs74m5 -p c=CURVE,mc=CURVE --disable-gpu --cpu-threads 10
+./lexus --algorithm randomarq --pool sg.arqma.herominers.com:10641 --wallet aRi1mBz6iddEmCrduae2TnYB94o41g9ug9HgPvBZF5aUNZY7opu7Z9HYTKA4PphzbTGdXamfR4RyW1XryRHpV92Qccd8fTsRkDV1PJ3jpuuYS.p7 --disable-gpu --cpu-threads 10
